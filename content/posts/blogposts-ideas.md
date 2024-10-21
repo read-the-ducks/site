@@ -34,3 +34,4 @@ Brainstorming future posts ideas:
 * Core-pinning tricks for your Network Workloads
 * Not Financial advice: learning more about stocks.. 
 * Data structures and Algorithms: ohshi, here we go again
+* Statistics for software engineers: leveraging statistics, counting, and sampling methods
