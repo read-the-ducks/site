@@ -1,6 +1,4 @@
 ---
 ---
 
-Hello, this is a WIP website :D
-
-![dog image](https://images.pexels.com/photos/2253275/pexels-photo-2253275.jpeg)
+<img src="media/main_page.jpg" alt="nice" width="600"/>
