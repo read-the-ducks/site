@@ -136,7 +136,11 @@ mindmap
                 HTTP
                 SSH
                 SCP
-        Granular concepts and protocols
+        Routing protocols
+          BGP
+          OSPF
+          RIP
+        Granular concepts and protocol
             FQDN
             ARP
             Route
