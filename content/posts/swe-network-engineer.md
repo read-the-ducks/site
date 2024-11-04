@@ -171,6 +171,9 @@ mindmap
         Network Interface Cards
             RX/TX queues
             GSO/GRO
+            Intel iavf
+            AWS ENA
+            TSO
             Packet Coalescing
             Checksum Computation
             Line rate
