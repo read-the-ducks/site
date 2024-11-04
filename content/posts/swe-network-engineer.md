@@ -142,6 +142,8 @@ mindmap
           RIP
         Granular concepts and protocol
             FQDN
+            XFF
+            uRPF
             ARP
             Route
             Peer
@@ -202,6 +204,7 @@ mindmap
             Instance types
             Limitations (PPS/Bandwidth)
         Streamline
+        Orchestration
         CI/CD
         Etcd
         Consul
