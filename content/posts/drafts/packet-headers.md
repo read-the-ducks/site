@@ -5,6 +5,7 @@ date: "2024-10-21"
 toc: true # table of contents (only h2 and h3 added to toc)
 bold: true # display post title in bold in posts list
 math: true # load katex
+draft: true
 ---
 
 ## L2
