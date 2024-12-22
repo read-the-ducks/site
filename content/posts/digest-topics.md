@@ -13,6 +13,7 @@ CCNA topics, CCNP topics (Encor + specializations)
 Golang specifics
 Python specifics
 Vscode Keyboard shortcuts
+Popular micro-architectures & extensions flags
 PCI, Hardware specifics, checking in Linux
 NIC, Hardware specifics, checking in Linux
 Proxy and Reverse Proxy, what are they
@@ -24,3 +25,4 @@ Systemcalls, what are they
 Userspace vs Kernel space
 Cache-optimized code concerns
 Special C or compiler instructions
+
